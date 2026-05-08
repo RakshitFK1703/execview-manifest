@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-09",
-  "deployed_at": "2026-05-08T18:32:08+00:00",
-  "generated_at": "2026-05-09T00:02:06.580809+05:30",
+  "date": "2026-05-08",
+  "deployed_at": "2026-05-08T18:46:31+00:00",
+  "generated_at": "2026-05-09T00:15:47.134619+05:30",
   "baseline": 674,
   "resolved": 469,
   "remaining": 309,
   "pct_cleared": 70,
-  "closed_today": 0,
-  "added_today": 0,
+  "closed_today": 48,
+  "added_today": 11,
   "blocked": 5,
   "uat": 11,
-  "prs_merged_today": 0,
-  "prs_pending_review": 30,
+  "prs_merged_today": 28,
+  "prs_pending_review": 29,
   "top_buckets": [
     {
       "label": "Customer Work",
@@ -36,8 +36,8 @@
     "ceo_pulse": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse.html",
     "dashboard": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard.html",
     "exec_report": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report.html",
-    "ceo_pulse_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse_2026-05-09.html",
-    "dashboard_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard_2026-05-09.html",
-    "exec_report_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report_2026-05-09.html"
+    "ceo_pulse_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse_2026-05-08.html",
+    "dashboard_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard_2026-05-08.html",
+    "exec_report_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report_2026-05-08.html"
   }
 }

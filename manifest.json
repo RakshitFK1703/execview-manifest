@@ -1,0 +1,43 @@
+{
+  "date": "2026-05-08",
+  "deployed_at": "2026-05-08T13:55:29+00:00",
+  "generated_at": "2026-05-08T19:02:35.907949+05:30",
+  "baseline": 674,
+  "resolved": 465,
+  "remaining": 308,
+  "pct_cleared": 69,
+  "closed_today": 42,
+  "added_today": 9,
+  "blocked": 5,
+  "uat": 10,
+  "prs_merged_today": 22,
+  "prs_pending_review": 29,
+  "top_buckets": [
+    {
+      "label": "Customer Work",
+      "remaining": 95,
+      "added": 49,
+      "resolved": 50
+    },
+    {
+      "label": "Platform + Unclassified",
+      "remaining": 44,
+      "added": 1,
+      "resolved": 36
+    },
+    {
+      "label": "Loft Platform",
+      "remaining": 31,
+      "added": 16,
+      "resolved": 44
+    }
+  ],
+  "urls": {
+    "ceo_pulse": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse.html",
+    "dashboard": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard.html",
+    "exec_report": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report.html",
+    "ceo_pulse_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse_2026-05-08.html",
+    "dashboard_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard_2026-05-08.html",
+    "exec_report_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report_2026-05-08.html"
+  }
+}

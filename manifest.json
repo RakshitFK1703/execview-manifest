@@ -1,11 +1,15 @@
 {
   "date": "2026-05-11",
-  "deployed_at": "2026-05-11T04:45:51+00:00",
+  "deployed_at": "2026-05-11T04:55:31+00:00",
   "generated_at": "2026-05-11T09:37:37.564697+05:30",
   "baseline": 674,
   "resolved": 488,
+  "released": 161,
+  "dropped": 314,
   "remaining": 293,
   "pct_cleared": 72,
+  "pct_shipped": 24,
+  "pct_dropped": 47,
   "closed_today": 0,
   "added_today": 0,
   "blocked": 2,
@@ -17,19 +21,25 @@
       "label": "Customer Work",
       "remaining": 91,
       "added": 49,
-      "resolved": 54
+      "resolved": 54,
+      "released": 18,
+      "dropped": 26
     },
     {
       "label": "Platform + Unclassified",
       "remaining": 44,
       "added": 1,
-      "resolved": 36
+      "resolved": 36,
+      "released": 21,
+      "dropped": 15
     },
     {
       "label": "Loft Platform",
       "remaining": 33,
       "added": 20,
-      "resolved": 46
+      "resolved": 46,
+      "released": 33,
+      "dropped": 13
     }
   ],
   "urls": {

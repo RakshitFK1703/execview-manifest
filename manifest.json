@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-12",
-  "deployed_at": "2026-05-12T15:49:10+00:00",
-  "generated_at": "2026-05-12T21:19:08.872637+05:30",
+  "date": "2026-05-13",
+  "deployed_at": "2026-05-13T17:25:21+00:00",
+  "generated_at": "2026-05-13T22:55:20.164506+05:30",
   "baseline": 674,
-  "resolved": 532,
-  "released": 187,
-  "dropped": 332,
-  "remaining": 279,
-  "pct_cleared": 79,
-  "pct_shipped": 28,
+  "resolved": 546,
+  "released": 200,
+  "dropped": 333,
+  "remaining": 287,
+  "pct_cleared": 81,
+  "pct_shipped": 30,
   "pct_dropped": 49,
-  "closed_today": 5,
-  "added_today": 9,
+  "closed_today": 7,
+  "added_today": 13,
   "blocked": 1,
-  "uat": 13,
-  "prs_merged_today": 19,
-  "prs_pending_review": 29,
+  "uat": 12,
+  "prs_merged_today": 21,
+  "prs_pending_review": 35,
   "top_buckets": [
     {
       "label": "Customer Work",
-      "remaining": 86,
-      "added": 59,
-      "resolved": 69,
-      "released": 27,
+      "remaining": 96,
+      "added": 70,
+      "resolved": 70,
+      "released": 28,
       "dropped": 32
     },
     {
@@ -35,10 +35,10 @@
     },
     {
       "label": "Loft Platform",
-      "remaining": 37,
-      "added": 27,
-      "resolved": 49,
-      "released": 36,
+      "remaining": 36,
+      "added": 29,
+      "resolved": 52,
+      "released": 39,
       "dropped": 13
     }
   ],
@@ -46,8 +46,8 @@
     "ceo_pulse": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse.html",
     "dashboard": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard.html",
     "exec_report": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report.html",
-    "ceo_pulse_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse_2026-05-12.html",
-    "dashboard_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard_2026-05-12.html",
-    "exec_report_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report_2026-05-12.html"
+    "ceo_pulse_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse_2026-05-13.html",
+    "dashboard_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard_2026-05-13.html",
+    "exec_report_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report_2026-05-13.html"
   }
 }

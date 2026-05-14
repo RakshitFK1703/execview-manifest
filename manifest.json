@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "deployed_at": "2026-05-14T18:20:43+00:00",
+  "deployed_at": "2026-05-14T18:31:05+00:00",
   "generated_at": "2026-05-14T23:40:45.340536+05:30",
   "baseline": 674,
   "resolved": 563,
@@ -43,11 +43,11 @@
     }
   ],
   "urls": {
-    "ceo_pulse": "https://execview-pink.vercel.app/ceo_pulse.html",
-    "dashboard": "https://execview-pink.vercel.app/dashboard.html",
-    "exec_report": "https://execview-pink.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-pink.vercel.app/ceo_pulse_2026-05-14.html",
-    "dashboard_dated": "https://execview-pink.vercel.app/dashboard_2026-05-14.html",
-    "exec_report_dated": "https://execview-pink.vercel.app/exec_report_2026-05-14.html"
+    "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
+    "dashboard": "https://execview-ai.vercel.app/dashboard.html",
+    "exec_report": "https://execview-ai.vercel.app/exec_report.html",
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-05-14.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-05-14.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-05-14.html"
   }
 }

@@ -1,28 +1,28 @@
 {
-  "date": "2026-05-13",
-  "deployed_at": "2026-05-13T17:25:21+00:00",
-  "generated_at": "2026-05-13T22:55:20.164506+05:30",
+  "date": "2026-05-14",
+  "deployed_at": "2026-05-14T18:20:43+00:00",
+  "generated_at": "2026-05-14T23:40:45.340536+05:30",
   "baseline": 674,
-  "resolved": 546,
-  "released": 200,
-  "dropped": 333,
-  "remaining": 287,
-  "pct_cleared": 81,
-  "pct_shipped": 30,
-  "pct_dropped": 49,
-  "closed_today": 7,
-  "added_today": 13,
+  "resolved": 563,
+  "released": 214,
+  "dropped": 336,
+  "remaining": 285,
+  "pct_cleared": 84,
+  "pct_shipped": 32,
+  "pct_dropped": 50,
+  "closed_today": 11,
+  "added_today": 4,
   "blocked": 1,
   "uat": 12,
   "prs_merged_today": 21,
-  "prs_pending_review": 35,
+  "prs_pending_review": 34,
   "top_buckets": [
     {
       "label": "Customer Work",
-      "remaining": 96,
-      "added": 70,
-      "resolved": 70,
-      "released": 28,
+      "remaining": 94,
+      "added": 72,
+      "resolved": 74,
+      "released": 32,
       "dropped": 32
     },
     {
@@ -35,19 +35,19 @@
     },
     {
       "label": "Loft Platform",
-      "remaining": 36,
-      "added": 29,
-      "resolved": 52,
-      "released": 39,
+      "remaining": 35,
+      "added": 30,
+      "resolved": 54,
+      "released": 41,
       "dropped": 13
     }
   ],
   "urls": {
-    "ceo_pulse": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse.html",
-    "dashboard": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard.html",
-    "exec_report": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report.html",
-    "ceo_pulse_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/ceo_pulse_2026-05-13.html",
-    "dashboard_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/dashboard_2026-05-13.html",
-    "exec_report_dated": "https://kaleidoscopic-starship-fdcd17.netlify.app/exec_report_2026-05-13.html"
+    "ceo_pulse": "https://execview-pink.vercel.app/ceo_pulse.html",
+    "dashboard": "https://execview-pink.vercel.app/dashboard.html",
+    "exec_report": "https://execview-pink.vercel.app/exec_report.html",
+    "ceo_pulse_dated": "https://execview-pink.vercel.app/ceo_pulse_2026-05-14.html",
+    "dashboard_dated": "https://execview-pink.vercel.app/dashboard_2026-05-14.html",
+    "exec_report_dated": "https://execview-pink.vercel.app/exec_report_2026-05-14.html"
   }
 }

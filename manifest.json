@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "deployed_at": "2026-05-15T17:30:35+00:00",
-  "generated_at": "2026-05-15T23:00:08.517077+05:30",
+  "deployed_at": "2026-05-15T17:52:22+00:00",
+  "generated_at": "2026-05-15T23:22:01.950895+05:30",
   "baseline": 674,
   "resolved": 576,
   "released": 226,
@@ -13,24 +13,72 @@
   "closed_today": 11,
   "added_today": 8,
   "added_today_by_category": {
-    "reclass": 0,
-    "new-scope": 0,
+    "reclass": 1,
+    "new-scope": 5,
     "rework": 0,
-    "other": 0,
-    "unclassified": 8
+    "other": 2,
+    "unclassified": 0
   },
   "added_since_baseline": 186,
   "inflow_by_category": {
-    "reclass": 29,
-    "new-scope": 52,
-    "rework": 40,
-    "other": 53,
-    "unclassified": 12
+    "reclass": 31,
+    "new-scope": 64,
+    "rework": 44,
+    "other": 47,
+    "unclassified": 0
+  },
+  "inflow_by_project": {
+    "CENG": 35,
+    "TRCY": 151
+  },
+  "inflow_by_customer": {
+    "Platform / Unspecified": 58,
+    "Arrow Electronics": 24,
+    "Coca Cola": 15,
+    "Loft": 15,
+    "Kraft Heinz": 11,
+    "Bridgestone": 9,
+    "Sam": 7,
+    "Unilever North America": 6,
+    "Nestle": 5,
+    "Bayer": 4,
+    "Church & Dwight": 4,
+    "Novelis": 3,
+    "3M Company": 3,
+    "Samsung SDS": 3,
+    "AI Tools": 3,
+    "Tracy": 2,
+    "LOFT": 2,
+    "Phibro": 1,
+    "Tim Hortons": 1,
+    "Trinseo": 1,
+    "Possible June item": 1,
+    "Cassie T&T": 1,
+    "HNI": 1,
+    "Investigate": 1,
+    "Armada": 1,
+    "Kimberly-Clark": 1,
+    "TRACY": 1,
+    "Chevron Vessel Tracking": 1,
+    "Smart Action / Config": 1
+  },
+  "added_today_by_project": {
+    "CENG": 2,
+    "TRCY": 6
+  },
+  "added_today_by_customer": {
+    "Arrow Electronics": 2,
+    "Phibro": 1,
+    "Kimberly-Clark": 1,
+    "Chevron Vessel Tracking": 1,
+    "Novelis": 1,
+    "Smart Action / Config": 1,
+    "Platform / Unspecified": 1
   },
   "blocked": 1,
   "uat": 12,
-  "prs_merged_today": 27,
-  "prs_pending_review": 35,
+  "prs_merged_today": 29,
+  "prs_pending_review": 33,
   "top_buckets": [
     {
       "label": "Customer Work",
@@ -40,11 +88,11 @@
       "released": 39,
       "dropped": 32,
       "inflow_by_category": {
-        "reclass": 28,
-        "new-scope": 39,
-        "rework": 5,
+        "reclass": 30,
+        "new-scope": 45,
+        "rework": 4,
         "other": 0,
-        "unclassified": 7
+        "unclassified": 0
       }
     },
     {
@@ -56,9 +104,9 @@
       "dropped": 16,
       "inflow_by_category": {
         "reclass": 0,
-        "new-scope": 1,
+        "new-scope": 0,
         "rework": 0,
-        "other": 1,
+        "other": 2,
         "unclassified": 0
       }
     },
@@ -71,9 +119,9 @@
       "dropped": 13,
       "inflow_by_category": {
         "reclass": 0,
-        "new-scope": 2,
-        "rework": 5,
-        "other": 23,
+        "new-scope": 6,
+        "rework": 7,
+        "other": 17,
         "unclassified": 0
       }
     }

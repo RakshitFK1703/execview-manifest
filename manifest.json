@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "deployed_at": "2026-05-14T18:31:05+00:00",
+  "deployed_at": "2026-05-15T11:44:48+00:00",
   "generated_at": "2026-05-14T23:40:45.340536+05:30",
   "baseline": 674,
   "resolved": 563,
@@ -11,7 +11,22 @@
   "pct_shipped": 32,
   "pct_dropped": 50,
   "closed_today": 11,
-  "added_today": 4,
+  "added_today": 0,
+  "added_today_by_category": {
+    "reclass": 0,
+    "new-scope": 0,
+    "rework": 0,
+    "other": 0,
+    "unclassified": 0
+  },
+  "added_since_baseline": 174,
+  "inflow_by_category": {
+    "reclass": 29,
+    "new-scope": 52,
+    "rework": 40,
+    "other": 53,
+    "unclassified": 0
+  },
   "blocked": 1,
   "uat": 12,
   "prs_merged_today": 21,
@@ -23,7 +38,14 @@
       "added": 72,
       "resolved": 74,
       "released": 32,
-      "dropped": 32
+      "dropped": 32,
+      "inflow_by_category": {
+        "reclass": 28,
+        "new-scope": 39,
+        "rework": 5,
+        "other": 0,
+        "unclassified": 0
+      }
     },
     {
       "label": "Platform + Unclassified",
@@ -31,7 +53,14 @@
       "added": 2,
       "resolved": 40,
       "released": 24,
-      "dropped": 16
+      "dropped": 16,
+      "inflow_by_category": {
+        "reclass": 0,
+        "new-scope": 1,
+        "rework": 0,
+        "other": 1,
+        "unclassified": 0
+      }
     },
     {
       "label": "Loft Platform",
@@ -39,7 +68,14 @@
       "added": 30,
       "resolved": 54,
       "released": 41,
-      "dropped": 13
+      "dropped": 13,
+      "inflow_by_category": {
+        "reclass": 0,
+        "new-scope": 2,
+        "rework": 5,
+        "other": 23,
+        "unclassified": 0
+      }
     }
   ],
   "urls": {

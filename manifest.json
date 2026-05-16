@@ -1,38 +1,38 @@
 {
-  "date": "2026-05-15",
-  "deployed_at": "2026-05-15T17:52:22+00:00",
-  "generated_at": "2026-05-15T23:22:01.950895+05:30",
+  "date": "2026-05-16",
+  "deployed_at": "2026-05-16T16:59:57+00:00",
+  "generated_at": "2026-05-16T22:29:57.071546+05:30",
   "baseline": 674,
-  "resolved": 576,
-  "released": 226,
-  "dropped": 337,
-  "remaining": 284,
-  "pct_cleared": 85,
+  "resolved": 579,
+  "released": 230,
+  "dropped": 336,
+  "remaining": 282,
+  "pct_cleared": 86,
   "pct_shipped": 34,
   "pct_dropped": 50,
-  "closed_today": 11,
-  "added_today": 8,
+  "closed_today": 0,
+  "added_today": 0,
   "added_today_by_category": {
-    "reclass": 1,
-    "new-scope": 5,
+    "reclass": 0,
+    "new-scope": 0,
     "rework": 0,
-    "other": 2,
+    "other": 0,
     "unclassified": 0
   },
-  "added_since_baseline": 186,
+  "added_since_baseline": 187,
   "inflow_by_category": {
     "reclass": 31,
     "new-scope": 64,
     "rework": 44,
     "other": 47,
-    "unclassified": 0
+    "unclassified": 1
   },
   "inflow_by_project": {
     "CENG": 35,
-    "TRCY": 151
+    "TRCY": 152
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 58,
+    "Platform / Unspecified": 59,
     "Arrow Electronics": 24,
     "Coca Cola": 15,
     "Loft": 15,
@@ -62,31 +62,20 @@
     "Chevron Vessel Tracking": 1,
     "Smart Action / Config": 1
   },
-  "added_today_by_project": {
-    "CENG": 2,
-    "TRCY": 6
-  },
-  "added_today_by_customer": {
-    "Arrow Electronics": 2,
-    "Phibro": 1,
-    "Kimberly-Clark": 1,
-    "Chevron Vessel Tracking": 1,
-    "Novelis": 1,
-    "Smart Action / Config": 1,
-    "Platform / Unspecified": 1
-  },
+  "added_today_by_project": {},
+  "added_today_by_customer": {},
   "blocked": 1,
   "uat": 12,
-  "prs_merged_today": 29,
-  "prs_pending_review": 33,
+  "prs_merged_today": 0,
+  "prs_pending_review": 32,
   "top_buckets": [
     {
       "label": "Customer Work",
       "remaining": 94,
       "added": 79,
       "resolved": 81,
-      "released": 39,
-      "dropped": 32,
+      "released": 40,
+      "dropped": 31,
       "inflow_by_category": {
         "reclass": 30,
         "new-scope": 45,
@@ -130,8 +119,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-05-15.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-05-15.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-05-15.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-05-16.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-05-16.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-05-16.html"
   }
 }

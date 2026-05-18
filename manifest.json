@@ -1,7 +1,7 @@
 {
-  "date": "2026-05-19",
-  "deployed_at": "2026-05-18T19:47:32+00:00",
-  "generated_at": "2026-05-19T01:17:30.646825+05:30",
+  "date": "2026-05-18",
+  "deployed_at": "2026-05-18T19:54:21+00:00",
+  "generated_at": "2026-05-19T01:23:45.289335+05:30",
   "baseline": 674,
   "resolved": 587,
   "released": 237,
@@ -10,7 +10,7 @@
   "pct_cleared": 87,
   "pct_shipped": 35,
   "pct_dropped": 50,
-  "closed_today": 0,
+  "closed_today": 5,
   "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
@@ -67,7 +67,7 @@
   "added_today_by_customer": {},
   "blocked": 0,
   "uat": 11,
-  "prs_merged_today": 0,
+  "prs_merged_today": 15,
   "prs_pending_review": 40,
   "top_buckets": [
     {
@@ -120,8 +120,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-05-19.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-05-19.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-05-19.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-05-18.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-05-18.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-05-18.html"
   }
 }

@@ -1,16 +1,16 @@
 {
   "date": "2026-05-19",
-  "deployed_at": "2026-05-19T20:05:52+00:00",
-  "generated_at": "2026-05-20T01:35:50.951709+05:30",
+  "deployed_at": "2026-05-19T20:48:17+00:00",
+  "generated_at": "2026-05-20T02:18:15.837867+05:30",
   "baseline": 674,
-  "resolved": 599,
-  "released": 247,
-  "dropped": 339,
-  "remaining": 303,
-  "pct_cleared": 89,
+  "resolved": 616,
+  "released": 248,
+  "dropped": 355,
+  "remaining": 287,
+  "pct_cleared": 91,
   "pct_shipped": 37,
-  "pct_dropped": 50,
-  "closed_today": 10,
+  "pct_dropped": 53,
+  "closed_today": 25,
   "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
@@ -19,17 +19,17 @@
     "other": 0,
     "unclassified": 0
   },
-  "added_since_baseline": 228,
+  "added_since_baseline": 229,
   "inflow_by_category": {
-    "reclass": 31,
-    "new-scope": 64,
-    "rework": 43,
-    "other": 47,
-    "unclassified": 43
+    "reclass": 40,
+    "new-scope": 59,
+    "rework": 58,
+    "other": 71,
+    "unclassified": 1
   },
   "inflow_by_project": {
     "CENG": 46,
-    "TRCY": 182
+    "TRCY": 183
   },
   "inflow_by_customer": {
     "Platform / Unspecified": 83,
@@ -45,8 +45,8 @@
     "Bayer": 4,
     "Church & Dwight": 4,
     "Novelis": 4,
+    "Samsung SDS": 4,
     "Armada": 3,
-    "Samsung SDS": 3,
     "AI Tools": 3,
     "Kimberly-Clark": 2,
     "Tracy": 2,
@@ -67,37 +67,37 @@
   "added_today_by_customer": {},
   "blocked": 0,
   "uat": 14,
-  "prs_merged_today": 29,
-  "prs_pending_review": 43,
+  "prs_merged_today": 28,
+  "prs_pending_review": 44,
   "top_buckets": [
     {
       "label": "Customer Work",
-      "remaining": 103,
+      "remaining": 102,
       "added": 94,
-      "resolved": 87,
-      "released": 45,
+      "resolved": 88,
+      "released": 46,
       "dropped": 32,
       "inflow_by_category": {
-        "reclass": 30,
-        "new-scope": 45,
-        "rework": 4,
-        "other": 0,
-        "unclassified": 15
+        "reclass": 39,
+        "new-scope": 44,
+        "rework": 8,
+        "other": 3,
+        "unclassified": 0
       }
     },
     {
-      "label": "Platform + Unclassified",
-      "remaining": 41,
-      "added": 2,
-      "resolved": 41,
-      "released": 25,
-      "dropped": 16,
+      "label": "Customer Bugs & RCAs",
+      "remaining": 35,
+      "added": 30,
+      "resolved": 28,
+      "released": 23,
+      "dropped": 5,
       "inflow_by_category": {
-        "reclass": 0,
-        "new-scope": 0,
-        "rework": 0,
-        "other": 2,
-        "unclassified": 0
+        "reclass": 1,
+        "new-scope": 1,
+        "rework": 27,
+        "other": 0,
+        "unclassified": 1
       }
     },
     {
@@ -109,10 +109,10 @@
       "dropped": 13,
       "inflow_by_category": {
         "reclass": 0,
-        "new-scope": 6,
-        "rework": 7,
-        "other": 17,
-        "unclassified": 3
+        "new-scope": 1,
+        "rework": 9,
+        "other": 23,
+        "unclassified": 0
       }
     }
   ],

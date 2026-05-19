@@ -1,46 +1,46 @@
 {
   "date": "2026-05-19",
-  "deployed_at": "2026-05-19T07:02:00+00:00",
-  "generated_at": "2026-05-19T12:31:59.498054+05:30",
+  "deployed_at": "2026-05-19T14:33:03+00:00",
+  "generated_at": "2026-05-19T20:03:02.638721+05:30",
   "baseline": 674,
-  "resolved": 589,
-  "released": 239,
+  "resolved": 595,
+  "released": 245,
   "dropped": 337,
-  "remaining": 302,
-  "pct_cleared": 87,
-  "pct_shipped": 35,
+  "remaining": 301,
+  "pct_cleared": 88,
+  "pct_shipped": 36,
   "pct_dropped": 50,
-  "closed_today": 1,
-  "added_today": 6,
+  "closed_today": 6,
+  "added_today": 13,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 6
+    "unclassified": 13
   },
-  "added_since_baseline": 217,
+  "added_since_baseline": 222,
   "inflow_by_category": {
     "reclass": 31,
     "new-scope": 64,
-    "rework": 44,
+    "rework": 43,
     "other": 47,
-    "unclassified": 31
+    "unclassified": 37
   },
   "inflow_by_project": {
     "CENG": 42,
-    "TRCY": 175
+    "TRCY": 180
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 73,
+    "Platform / Unspecified": 77,
     "Arrow Electronics": 29,
     "Coca Cola": 17,
     "Loft": 15,
-    "Kraft Heinz": 11,
+    "Kraft Heinz": 10,
     "Bridgestone": 10,
     "Sam": 8,
+    "3M Company": 7,
     "Unilever North America": 7,
-    "3M Company": 5,
     "Nestle": 5,
     "Bayer": 4,
     "Church & Dwight": 4,
@@ -64,32 +64,33 @@
     "Polly": 1
   },
   "added_today_by_project": {
-    "TRCY": 6
+    "TRCY": 13
   },
   "added_today_by_customer": {
-    "Platform / Unspecified": 3,
+    "Platform / Unspecified": 7,
+    "3M Company": 3,
     "Novelis": 1,
     "Arrow Electronics": 1,
     "Unilever North America": 1
   },
   "blocked": 0,
-  "uat": 11,
-  "prs_merged_today": 8,
-  "prs_pending_review": 39,
+  "uat": 13,
+  "prs_merged_today": 22,
+  "prs_pending_review": 46,
   "top_buckets": [
     {
       "label": "Customer Work",
-      "remaining": 99,
-      "added": 88,
-      "resolved": 85,
-      "released": 43,
+      "remaining": 100,
+      "added": 91,
+      "resolved": 87,
+      "released": 45,
       "dropped": 32,
       "inflow_by_category": {
         "reclass": 30,
         "new-scope": 45,
         "rework": 4,
         "other": 0,
-        "unclassified": 9
+        "unclassified": 12
       }
     },
     {
@@ -109,10 +110,10 @@
     },
     {
       "label": "Loft Platform",
-      "remaining": 37,
+      "remaining": 36,
       "added": 33,
-      "resolved": 55,
-      "released": 42,
+      "resolved": 56,
+      "released": 43,
       "dropped": 13,
       "inflow_by_category": {
         "reclass": 0,

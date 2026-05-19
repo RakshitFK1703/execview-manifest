@@ -1,46 +1,46 @@
 {
   "date": "2026-05-19",
-  "deployed_at": "2026-05-19T14:33:03+00:00",
-  "generated_at": "2026-05-19T20:03:02.638721+05:30",
+  "deployed_at": "2026-05-19T20:05:52+00:00",
+  "generated_at": "2026-05-20T01:35:50.951709+05:30",
   "baseline": 674,
-  "resolved": 595,
-  "released": 245,
-  "dropped": 337,
-  "remaining": 301,
-  "pct_cleared": 88,
-  "pct_shipped": 36,
+  "resolved": 599,
+  "released": 247,
+  "dropped": 339,
+  "remaining": 303,
+  "pct_cleared": 89,
+  "pct_shipped": 37,
   "pct_dropped": 50,
-  "closed_today": 6,
-  "added_today": 13,
+  "closed_today": 10,
+  "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 13
+    "unclassified": 0
   },
-  "added_since_baseline": 222,
+  "added_since_baseline": 228,
   "inflow_by_category": {
     "reclass": 31,
     "new-scope": 64,
     "rework": 43,
     "other": 47,
-    "unclassified": 37
+    "unclassified": 43
   },
   "inflow_by_project": {
-    "CENG": 42,
-    "TRCY": 180
+    "CENG": 46,
+    "TRCY": 182
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 77,
+    "Platform / Unspecified": 83,
     "Arrow Electronics": 29,
     "Coca Cola": 17,
     "Loft": 15,
     "Kraft Heinz": 10,
     "Bridgestone": 10,
     "Sam": 8,
-    "3M Company": 7,
     "Unilever North America": 7,
+    "3M Company": 6,
     "Nestle": 5,
     "Bayer": 4,
     "Church & Dwight": 4,
@@ -48,6 +48,7 @@
     "Armada": 3,
     "Samsung SDS": 3,
     "AI Tools": 3,
+    "Kimberly-Clark": 2,
     "Tracy": 2,
     "LOFT": 2,
     "Phibro": 1,
@@ -57,31 +58,22 @@
     "Cassie T&T": 1,
     "HNI": 1,
     "Investigate": 1,
-    "Kimberly-Clark": 1,
     "TRACY": 1,
     "Chevron Vessel Tracking": 1,
     "Smart Action / Config": 1,
     "Polly": 1
   },
-  "added_today_by_project": {
-    "TRCY": 13
-  },
-  "added_today_by_customer": {
-    "Platform / Unspecified": 7,
-    "3M Company": 3,
-    "Novelis": 1,
-    "Arrow Electronics": 1,
-    "Unilever North America": 1
-  },
+  "added_today_by_project": {},
+  "added_today_by_customer": {},
   "blocked": 0,
-  "uat": 13,
-  "prs_merged_today": 22,
-  "prs_pending_review": 46,
+  "uat": 14,
+  "prs_merged_today": 29,
+  "prs_pending_review": 43,
   "top_buckets": [
     {
       "label": "Customer Work",
-      "remaining": 100,
-      "added": 91,
+      "remaining": 103,
+      "added": 94,
       "resolved": 87,
       "released": 45,
       "dropped": 32,
@@ -90,7 +82,7 @@
         "new-scope": 45,
         "rework": 4,
         "other": 0,
-        "unclassified": 12
+        "unclassified": 15
       }
     },
     {
@@ -110,10 +102,10 @@
     },
     {
       "label": "Loft Platform",
-      "remaining": 36,
+      "remaining": 35,
       "added": 33,
-      "resolved": 56,
-      "released": 43,
+      "resolved": 57,
+      "released": 44,
       "dropped": 13,
       "inflow_by_category": {
         "reclass": 0,

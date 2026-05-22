@@ -1,42 +1,42 @@
 {
   "date": "2026-05-22",
-  "deployed_at": "2026-05-22T10:54:52+00:00",
-  "generated_at": "2026-05-22T16:24:51.596554+05:30",
+  "deployed_at": "2026-05-22T13:42:23+00:00",
+  "generated_at": "2026-05-22T19:12:22.784572+05:30",
   "baseline": 674,
-  "resolved": 678,
-  "released": 301,
+  "resolved": 688,
+  "released": 311,
   "dropped": 365,
-  "remaining": 282,
-  "pct_cleared": 101,
-  "pct_shipped": 45,
+  "remaining": 280,
+  "pct_cleared": 102,
+  "pct_shipped": 46,
   "pct_dropped": 54,
-  "closed_today": 6,
-  "added_today": 5,
+  "closed_today": 8,
+  "added_today": 13,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 5
+    "unclassified": 13
   },
-  "added_since_baseline": 286,
+  "added_since_baseline": 294,
   "inflow_by_category": {
     "reclass": 40,
     "new-scope": 58,
     "rework": 58,
     "other": 71,
-    "unclassified": 59
+    "unclassified": 67
   },
   "inflow_by_project": {
     "CENG": 57,
-    "TRCY": 229
+    "TRCY": 237
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 94,
+    "Platform / Unspecified": 101,
     "Arrow Electronics": 32,
     "Coca Cola": 20,
+    "Loft": 16,
     "Bayer": 15,
-    "Loft": 15,
     "Bridgestone": 14,
     "Sam": 12,
     "Kraft Heinz": 10,
@@ -65,23 +65,24 @@
     "Smart Action / Config": 1
   },
   "added_today_by_project": {
-    "TRCY": 5
+    "TRCY": 13
   },
   "added_today_by_customer": {
-    "Platform / Unspecified": 4,
-    "3M Company": 1
+    "Platform / Unspecified": 11,
+    "3M Company": 1,
+    "Loft": 1
   },
-  "blocked": 1,
+  "blocked": 0,
   "uat": 6,
-  "prs_merged_today": 5,
-  "prs_pending_review": 48,
+  "prs_merged_today": 14,
+  "prs_pending_review": 45,
   "top_buckets": [
     {
       "label": "Customer Work",
-      "remaining": 111,
+      "remaining": 110,
       "added": 119,
-      "resolved": 104,
-      "released": 63,
+      "resolved": 105,
+      "released": 64,
       "dropped": 32,
       "inflow_by_category": {
         "reclass": 39,
@@ -92,24 +93,9 @@
       }
     },
     {
-      "label": "Loft Platform",
-      "remaining": 35,
-      "added": 35,
-      "resolved": 59,
-      "released": 46,
-      "dropped": 13,
-      "inflow_by_category": {
-        "reclass": 0,
-        "new-scope": 1,
-        "rework": 9,
-        "other": 23,
-        "unclassified": 2
-      }
-    },
-    {
       "label": "Customer Bugs & RCAs",
-      "remaining": 31,
-      "added": 43,
+      "remaining": 32,
+      "added": 44,
       "resolved": 45,
       "released": 37,
       "dropped": 8,
@@ -118,7 +104,22 @@
         "new-scope": 1,
         "rework": 27,
         "other": 0,
-        "unclassified": 14
+        "unclassified": 15
+      }
+    },
+    {
+      "label": "Loft Platform",
+      "remaining": 30,
+      "added": 36,
+      "resolved": 65,
+      "released": 52,
+      "dropped": 13,
+      "inflow_by_category": {
+        "reclass": 0,
+        "new-scope": 1,
+        "rework": 9,
+        "other": 23,
+        "unclassified": 3
       }
     }
   ],

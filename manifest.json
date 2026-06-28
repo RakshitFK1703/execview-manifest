@@ -1,43 +1,43 @@
 {
-  "date": "2026-06-27",
-  "deployed_at": "2026-06-27T14:32:26+00:00",
-  "generated_at": "2026-06-27T20:02:25.308904+05:30",
+  "date": "2026-06-28",
+  "deployed_at": "2026-06-28T17:56:46+00:00",
+  "generated_at": "2026-06-28T23:26:45.749235+05:30",
   "baseline": 674,
-  "resolved": 1021,
-  "released": 879,
+  "resolved": 1022,
+  "released": 880,
   "dropped": 131,
-  "remaining": 293,
-  "pct_cleared": 151,
-  "pct_shipped": 130,
+  "remaining": 292,
+  "pct_cleared": 152,
+  "pct_shipped": 131,
   "pct_dropped": 19,
-  "closed_today": 2,
-  "added_today": 0,
+  "closed_today": 0,
+  "added_today": 1,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 0
+    "unclassified": 1
   },
   "added_since_baseline": 640,
   "inflow_by_category": {
     "reclass": 25,
     "new-scope": 25,
-    "rework": 17,
+    "rework": 16,
     "other": 18,
-    "unclassified": 555
+    "unclassified": 556
   },
   "inflow_by_project": {
     "CENG": 78,
     "TRCY": 562
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 272,
-    "Arrow Electronics": 44,
-    "Sam": 37,
+    "Platform / Unspecified": 269,
+    "Arrow Electronics": 43,
+    "Sam": 39,
     "Loft": 28,
+    "AI Tools": 25,
     "WMS": 25,
-    "AI Tools": 23,
     "Coca Cola": 22,
     "Monitoring": 22,
     "DSV Pilot": 20,
@@ -80,8 +80,12 @@
     "TRCY-4645-B": 1,
     "Urgent": 1
   },
-  "added_today_by_project": {},
-  "added_today_by_customer": {},
+  "added_today_by_project": {
+    "TRCY": 1
+  },
+  "added_today_by_customer": {
+    "Sam": 1
+  },
   "blocked": 17,
   "uat": 9,
   "prs_merged_today": 0,
@@ -90,14 +94,14 @@
     {
       "label": "Customer Work",
       "remaining": 131,
-      "added": 178,
-      "resolved": 143,
-      "released": 126,
+      "added": 177,
+      "resolved": 142,
+      "released": 125,
       "dropped": 9,
       "inflow_by_category": {
         "reclass": 25,
         "new-scope": 17,
-        "rework": 3,
+        "rework": 2,
         "other": 0,
         "unclassified": 133
       }
@@ -137,8 +141,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-06-27.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-06-27.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-06-27.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-06-28.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-06-28.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-06-28.html"
   }
 }

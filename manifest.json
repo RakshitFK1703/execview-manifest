@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-08",
-  "deployed_at": "2026-08-08T14:32:41+00:00",
-  "generated_at": "2026-08-08T20:02:41.130548+05:30",
+  "date": "2026-08-09",
+  "deployed_at": "2026-08-09T14:40:10+00:00",
+  "generated_at": "2026-08-09T20:10:09.176545+05:30",
   "baseline": 674,
   "resolved": 1521,
-  "released": 1358,
-  "dropped": 157,
-  "remaining": 291,
+  "released": 1362,
+  "dropped": 153,
+  "remaining": 311,
   "pct_cleared": 226,
-  "pct_shipped": 201,
+  "pct_shipped": 202,
   "pct_dropped": 23,
-  "closed_today": 1,
-  "added_today": 0,
+  "closed_today": 0,
+  "added_today": 20,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 0
+    "unclassified": 20
   },
-  "added_since_baseline": 1138,
+  "added_since_baseline": 1158,
   "inflow_by_category": {
     "reclass": 7,
     "new-scope": 17,
     "rework": 12,
     "other": 8,
-    "unclassified": 1094
+    "unclassified": 1114
   },
   "inflow_by_project": {
-    "TRCY": 1076,
+    "TRCY": 1096,
     "CENG": 62
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 441,
+    "Platform / Unspecified": 444,
     "Sam": 135,
-    "Loft": 99,
+    "Loft": 115,
     "Tracy": 76,
-    "Arrow Electronics": 68,
+    "Arrow Electronics": 69,
     "Kimberly-Clark": 41,
     "3M Company": 38,
     "Bayer": 25,
@@ -98,8 +98,14 @@
     "CI": 1,
     "Urgent": 1
   },
-  "added_today_by_project": {},
-  "added_today_by_customer": {},
+  "added_today_by_project": {
+    "TRCY": 20
+  },
+  "added_today_by_customer": {
+    "Loft": 16,
+    "Platform / Unspecified": 3,
+    "Arrow Electronics": 1
+  },
   "blocked": 28,
   "uat": 22,
   "prs_merged_today": 0,
@@ -107,8 +113,8 @@
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 116,
-      "added": 293,
+      "remaining": 136,
+      "added": 313,
       "resolved": 256,
       "released": 244,
       "dropped": 10,
@@ -117,7 +123,7 @@
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 293
+        "unclassified": 313
       }
     },
     {
@@ -155,8 +161,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-08.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-08.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-08.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-09.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-09.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-09.html"
   }
 }

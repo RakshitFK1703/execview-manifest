@@ -1,40 +1,40 @@
 {
-  "date": "2026-08-09",
-  "deployed_at": "2026-08-09T14:40:10+00:00",
-  "generated_at": "2026-08-09T20:10:09.176545+05:30",
+  "date": "2026-08-10",
+  "deployed_at": "2026-08-10T14:33:21+00:00",
+  "generated_at": "2026-08-10T20:03:20.273846+05:30",
   "baseline": 674,
-  "resolved": 1521,
-  "released": 1362,
-  "dropped": 153,
-  "remaining": 311,
-  "pct_cleared": 226,
-  "pct_shipped": 202,
-  "pct_dropped": 23,
-  "closed_today": 0,
-  "added_today": 20,
+  "resolved": 1545,
+  "released": 1392,
+  "dropped": 147,
+  "remaining": 322,
+  "pct_cleared": 229,
+  "pct_shipped": 207,
+  "pct_dropped": 22,
+  "closed_today": 23,
+  "added_today": 35,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 20
+    "unclassified": 35
   },
-  "added_since_baseline": 1158,
+  "added_since_baseline": 1193,
   "inflow_by_category": {
     "reclass": 7,
     "new-scope": 17,
     "rework": 12,
     "other": 8,
-    "unclassified": 1114
+    "unclassified": 1149
   },
   "inflow_by_project": {
-    "TRCY": 1096,
+    "TRCY": 1131,
     "CENG": 62
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 444,
-    "Sam": 135,
-    "Loft": 115,
+    "Platform / Unspecified": 451,
+    "Sam": 139,
+    "Loft": 136,
     "Tracy": 76,
     "Arrow Electronics": 69,
     "Kimberly-Clark": 41,
@@ -94,44 +94,50 @@
     "Goals/SLA": 1,
     "Monitoring": 1,
     "Super 17": 1,
+    "AI Agent Actions": 1,
+    "Stage 1/3": 1,
+    "Stage 2/3": 1,
     "TRCY-4645-B": 1,
     "CI": 1,
     "Urgent": 1
   },
   "added_today_by_project": {
-    "TRCY": 20
+    "TRCY": 35
   },
   "added_today_by_customer": {
-    "Loft": 16,
-    "Platform / Unspecified": 3,
-    "Arrow Electronics": 1
+    "Loft": 21,
+    "Platform / Unspecified": 7,
+    "Sam": 4,
+    "AI Agent Actions": 1,
+    "Stage 1/3": 1,
+    "Stage 2/3": 1
   },
   "blocked": 28,
-  "uat": 22,
+  "uat": 21,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 136,
-      "added": 313,
-      "resolved": 256,
-      "released": 244,
-      "dropped": 10,
+      "remaining": 152,
+      "added": 348,
+      "resolved": 275,
+      "released": 264,
+      "dropped": 9,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 313
+        "unclassified": 348
       }
     },
     {
       "label": "Customer Work",
-      "remaining": 67,
+      "remaining": 65,
       "added": 216,
-      "resolved": 245,
-      "released": 197,
+      "resolved": 247,
+      "released": 199,
       "dropped": 45,
       "inflow_by_category": {
         "reclass": 7,
@@ -143,10 +149,10 @@
     },
     {
       "label": "Sam / Doc Extraction",
-      "remaining": 25,
+      "remaining": 23,
       "added": 119,
-      "resolved": 125,
-      "released": 109,
+      "resolved": 127,
+      "released": 111,
       "dropped": 16,
       "inflow_by_category": {
         "reclass": 0,
@@ -161,8 +167,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-09.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-09.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-09.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-10.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-10.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-10.html"
   }
 }

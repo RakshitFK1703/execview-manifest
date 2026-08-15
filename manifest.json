@@ -1,40 +1,40 @@
 {
-  "date": "2026-08-14",
-  "deployed_at": "2026-08-14T14:34:17+00:00",
-  "generated_at": "2026-08-14T20:04:15.466279+05:30",
+  "date": "2026-08-15",
+  "deployed_at": "2026-08-15T14:31:50+00:00",
+  "generated_at": "2026-08-15T20:01:49.444808+05:30",
   "baseline": 674,
-  "resolved": 1679,
-  "released": 1566,
+  "resolved": 1676,
+  "released": 1562,
   "dropped": 109,
   "remaining": 296,
   "pct_cleared": 249,
   "pct_shipped": 232,
   "pct_dropped": 16,
-  "closed_today": 47,
-  "added_today": 21,
+  "closed_today": 0,
+  "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 21
+    "unclassified": 0
   },
-  "added_since_baseline": 1301,
+  "added_since_baseline": 1298,
   "inflow_by_category": {
     "reclass": 6,
     "new-scope": 15,
     "rework": 8,
     "other": 6,
-    "unclassified": 1266
+    "unclassified": 1263
   },
   "inflow_by_project": {
-    "TRCY": 1242,
-    "CENG": 59
+    "TRCY": 1237,
+    "CENG": 61
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 493,
-    "Loft": 151,
-    "Sam": 144,
+    "Platform / Unspecified": 487,
+    "Loft": 152,
+    "Sam": 145,
     "Tracy": 99,
     "Arrow Electronics": 69,
     "Kimberly-Clark": 40,
@@ -43,11 +43,11 @@
     "AI Tools": 22,
     "Cargill": 21,
     "Walmart": 20,
-    "Bridgestone": 18,
+    "Bridgestone": 19,
     "DSV Pilot": 16,
     "Coca Cola": 10,
-    "ai-agent-actions": 10,
     "WMS": 10,
+    "ai-agent-actions": 9,
     "Novelis": 7,
     "Polly": 6,
     "LOFT": 6,
@@ -76,7 +76,6 @@
     "Nestle USA": 1,
     "USPS": 1,
     "Cardinal Health (Med)": 1,
-    "Customer-reported": 1,
     "Arrow/Sam": 1,
     "Chevron": 1,
     "Explainability Worker": 1,
@@ -89,6 +88,7 @@
     "Trinseo": 1,
     "Email channel": 1,
     "Armada": 1,
+    "First Solar": 1,
     "KC": 1,
     "BLOCKED \u2014 DSL vocabulary TBD": 1,
     "Rail": 1,
@@ -101,41 +101,31 @@
     "Stage 2/3": 1,
     "NVIDIA": 1,
     "#538488": 1,
+    "#539650": 1,
     "TRCY-4645-B": 1,
     "CI": 1,
     "Urgent": 1
   },
-  "added_today_by_project": {
-    "TRCY": 21
-  },
-  "added_today_by_customer": {
-    "Tracy": 7,
-    "Platform / Unspecified": 5,
-    "Loft": 4,
-    "Automation": 1,
-    "Coca Cola": 1,
-    "#538488": 1,
-    "Arrow Electronics": 1,
-    "Cargill": 1
-  },
+  "added_today_by_project": {},
+  "added_today_by_customer": {},
   "blocked": 28,
-  "uat": 10,
+  "uat": 9,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
       "remaining": 154,
-      "added": 517,
-      "resolved": 442,
-      "released": 425,
+      "added": 526,
+      "resolved": 451,
+      "released": 434,
       "dropped": 17,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 517
+        "unclassified": 526
       }
     },
     {
@@ -143,7 +133,7 @@
       "remaining": 63,
       "added": 205,
       "resolved": 238,
-      "released": 193,
+      "released": 192,
       "dropped": 43,
       "inflow_by_category": {
         "reclass": 6,
@@ -156,16 +146,16 @@
     {
       "label": "Loft Platform",
       "remaining": 22,
-      "added": 136,
-      "resolved": 173,
-      "released": 167,
+      "added": 135,
+      "resolved": 172,
+      "released": 166,
       "dropped": 6,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 1,
         "other": 3,
-        "unclassified": 132
+        "unclassified": 131
       }
     }
   ],
@@ -173,8 +163,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-14.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-14.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-14.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-15.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-15.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-15.html"
   }
 }

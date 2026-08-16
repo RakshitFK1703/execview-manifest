@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-15",
-  "deployed_at": "2026-08-15T14:31:50+00:00",
-  "generated_at": "2026-08-15T20:01:49.444808+05:30",
+  "date": "2026-08-16",
+  "deployed_at": "2026-08-16T14:31:38+00:00",
+  "generated_at": "2026-08-16T20:01:37.284162+05:30",
   "baseline": 674,
-  "resolved": 1676,
-  "released": 1562,
+  "resolved": 1674,
+  "released": 1560,
   "dropped": 109,
-  "remaining": 296,
-  "pct_cleared": 249,
-  "pct_shipped": 232,
+  "remaining": 298,
+  "pct_cleared": 248,
+  "pct_shipped": 231,
   "pct_dropped": 16,
-  "closed_today": 0,
-  "added_today": 0,
+  "closed_today": 1,
+  "added_today": 2,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 0
+    "unclassified": 2
   },
   "added_since_baseline": 1298,
   "inflow_by_category": {
@@ -34,14 +34,14 @@
   "inflow_by_customer": {
     "Platform / Unspecified": 487,
     "Loft": 152,
-    "Sam": 145,
+    "Sam": 146,
     "Tracy": 99,
     "Arrow Electronics": 69,
     "Kimberly-Clark": 40,
     "3M Company": 33,
     "Bayer": 25,
-    "AI Tools": 22,
     "Cargill": 21,
+    "AI Tools": 21,
     "Walmart": 20,
     "Bridgestone": 19,
     "DSV Pilot": 16,
@@ -106,8 +106,12 @@
     "CI": 1,
     "Urgent": 1
   },
-  "added_today_by_project": {},
-  "added_today_by_customer": {},
+  "added_today_by_project": {
+    "TRCY": 2
+  },
+  "added_today_by_customer": {
+    "Platform / Unspecified": 2
+  },
   "blocked": 28,
   "uat": 9,
   "prs_merged_today": 0,
@@ -115,17 +119,17 @@
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 154,
-      "added": 526,
-      "resolved": 451,
-      "released": 434,
+      "remaining": 156,
+      "added": 529,
+      "resolved": 452,
+      "released": 435,
       "dropped": 17,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 526
+        "unclassified": 529
       }
     },
     {
@@ -146,16 +150,16 @@
     {
       "label": "Loft Platform",
       "remaining": 22,
-      "added": 135,
-      "resolved": 172,
-      "released": 166,
+      "added": 134,
+      "resolved": 171,
+      "released": 165,
       "dropped": 6,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 1,
         "other": 3,
-        "unclassified": 131
+        "unclassified": 130
       }
     }
   ],
@@ -163,8 +167,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-15.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-15.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-15.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-16.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-16.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-16.html"
   }
 }

@@ -1,41 +1,41 @@
 {
-  "date": "2026-08-28",
-  "deployed_at": "2026-08-28T14:31:53+00:00",
-  "generated_at": "2026-08-28T20:01:52.293787+05:30",
+  "date": "2026-08-29",
+  "deployed_at": "2026-08-29T14:31:38+00:00",
+  "generated_at": "2026-08-29T20:01:37.719359+05:30",
   "baseline": 674,
   "resolved": 1557,
   "released": 1365,
   "dropped": 186,
-  "remaining": 236,
+  "remaining": 235,
   "pct_cleared": 231,
   "pct_shipped": 203,
   "pct_dropped": 28,
-  "closed_today": 4,
-  "added_today": 4,
+  "closed_today": 0,
+  "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 4
+    "unclassified": 0
   },
-  "added_since_baseline": 1119,
+  "added_since_baseline": 1118,
   "inflow_by_category": {
     "reclass": 8,
     "new-scope": 17,
     "rework": 3,
-    "other": 12,
+    "other": 11,
     "unclassified": 1079
   },
   "inflow_by_project": {
-    "TRCY": 1046,
+    "TRCY": 1045,
     "CENG": 73
   },
   "inflow_by_customer": {
     "Platform / Unspecified": 419,
     "Tracy": 163,
     "Loft": 134,
-    "Sam": 109,
+    "Sam": 110,
     "Arrow Electronics": 45,
     "Kimberly-Clark": 29,
     "Coca Cola": 28,
@@ -48,10 +48,10 @@
     "Bayer": 8,
     "Novelis": 7,
     "DSV Pilot": 6,
-    "AI Tools": 6,
     "Functional Failures": 5,
     "Reporting": 5,
     "SAM": 5,
+    "AI Tools": 4,
     "Monitoring": 4,
     "Invisible Failures": 4,
     "Armada": 3,
@@ -94,14 +94,9 @@
     "FedEx": 1,
     "Fedex": 1
   },
-  "added_today_by_project": {
-    "TRCY": 4
-  },
-  "added_today_by_customer": {
-    "Platform / Unspecified": 3,
-    "Tracy": 1
-  },
-  "blocked": 18,
+  "added_today_by_project": {},
+  "added_today_by_customer": {},
+  "blocked": 17,
   "uat": 7,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
@@ -109,16 +104,16 @@
     {
       "label": "Platform + Unclassified",
       "remaining": 160,
-      "added": 753,
-      "resolved": 672,
-      "released": 611,
+      "added": 754,
+      "resolved": 673,
+      "released": 612,
       "dropped": 61,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 753
+        "unclassified": 754
       }
     },
     {
@@ -156,8 +151,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-28.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-28.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-28.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-29.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-29.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-29.html"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-29",
-  "deployed_at": "2026-08-29T14:31:38+00:00",
-  "generated_at": "2026-08-29T20:01:37.719359+05:30",
+  "date": "2026-08-30",
+  "deployed_at": "2026-08-30T14:31:21+00:00",
+  "generated_at": "2026-08-30T20:01:20.906706+05:30",
   "baseline": 674,
   "resolved": 1557,
   "released": 1365,
@@ -151,8 +151,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-29.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-29.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-29.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-08-30.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-08-30.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-08-30.html"
   }
 }

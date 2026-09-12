@@ -1,68 +1,69 @@
 {
-  "date": "2026-09-11",
-  "deployed_at": "2026-09-11T14:32:47+00:00",
-  "generated_at": "2026-09-11T20:02:46.207906+05:30",
+  "date": "2026-09-12",
+  "deployed_at": "2026-09-12T14:31:51+00:00",
+  "generated_at": "2026-09-12T20:01:50.581915+05:30",
   "baseline": 674,
-  "resolved": 1656,
-  "released": 1466,
-  "dropped": 184,
-  "remaining": 280,
-  "pct_cleared": 246,
-  "pct_shipped": 218,
+  "resolved": 1624,
+  "released": 1435,
+  "dropped": 182,
+  "remaining": 294,
+  "pct_cleared": 241,
+  "pct_shipped": 213,
   "pct_dropped": 27,
-  "closed_today": 15,
-  "added_today": 21,
+  "closed_today": 0,
+  "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 21
+    "unclassified": 0
   },
-  "added_since_baseline": 1262,
+  "added_since_baseline": 1244,
   "inflow_by_category": {
     "reclass": 10,
     "new-scope": 19,
-    "rework": 4,
+    "rework": 5,
     "other": 12,
-    "unclassified": 1217
+    "unclassified": 1198
   },
   "inflow_by_project": {
-    "TRCY": 1196,
-    "CENG": 66
+    "TRCY": 1177,
+    "CENG": 67
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 495,
-    "Tracy": 182,
-    "Loft": 140,
+    "Platform / Unspecified": 489,
+    "Tracy": 180,
+    "Loft": 134,
     "Sam": 115,
-    "Arrow Electronics": 53,
+    "Arrow Electronics": 49,
     "Kimberly-Clark": 31,
     "Coca Cola": 29,
-    "Novelis": 21,
-    "Walmart": 21,
+    "Novelis": 22,
+    "Walmart": 19,
     "3M Company": 15,
     "Samsung SDS": 15,
+    "Bayer": 9,
     "Automation": 9,
-    "Bridgestone": 8,
-    "Bayer": 8,
     "Kraft Heinz": 8,
+    "AI Tools": 7,
+    "Bridgestone": 7,
     "Unilever North America": 7,
-    "DSV Pilot": 5,
     "Monitoring": 5,
     "SAM": 5,
-    "AI Tools": 4,
+    "DSV Pilot": 4,
     "Invisible Failures": 4,
     "Functional Failures": 4,
-    "Reporting": 4,
     "Polly": 4,
     "Outlook trigger": 4,
     "Armada": 3,
     "TRACY": 3,
     "Alert Routing": 3,
+    "Reporting": 3,
     "Cargill": 3,
     "FedEx": 3,
     "KHC": 2,
+    "Scenario Engine": 2,
     "Trinseo": 2,
     "First Solar": 2,
     "Volume Alerting": 2,
@@ -80,10 +81,8 @@
     "HNI": 1,
     "KC": 1,
     "BLOCKED \u2014 DSL vocabulary TBD": 1,
-    "Rail": 1,
     "DEFERRED": 1,
     "Goals/SLA": 1,
-    "Super 17": 1,
     "AI Agent Actions": 1,
     "Stage 1/3": 1,
     "Stage 2/3": 1,
@@ -105,62 +104,56 @@
     "Outlook": 1,
     "OPS": 1
   },
-  "added_today_by_project": {
-    "TRCY": 21
-  },
-  "added_today_by_customer": {
-    "Platform / Unspecified": 16,
-    "Loft": 3,
-    "Sam": 2
-  },
-  "blocked": 24,
+  "added_today_by_project": {},
+  "added_today_by_customer": {},
+  "blocked": 32,
   "uat": 7,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 207,
-      "added": 950,
-      "resolved": 822,
-      "released": 755,
+      "remaining": 212,
+      "added": 926,
+      "resolved": 793,
+      "released": 726,
       "dropped": 67,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 950
+        "unclassified": 926
       }
     },
     {
       "label": "Customer Work",
-      "remaining": 35,
-      "added": 84,
-      "resolved": 145,
-      "released": 105,
-      "dropped": 37,
+      "remaining": 29,
+      "added": 83,
+      "resolved": 150,
+      "released": 111,
+      "dropped": 35,
       "inflow_by_category": {
         "reclass": 10,
         "new-scope": 14,
         "rework": 0,
         "other": 0,
-        "unclassified": 60
+        "unclassified": 59
       }
     },
     {
       "label": "Loft Platform",
-      "remaining": 12,
-      "added": 32,
-      "resolved": 79,
-      "released": 65,
+      "remaining": 18,
+      "added": 37,
+      "resolved": 78,
+      "released": 64,
       "dropped": 14,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
-        "rework": 0,
+        "rework": 1,
         "other": 7,
-        "unclassified": 25
+        "unclassified": 29
       }
     }
   ],
@@ -168,8 +161,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-11.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-11.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-11.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-12.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-12.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-12.html"
   }
 }

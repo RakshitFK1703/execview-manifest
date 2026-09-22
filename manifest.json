@@ -1,45 +1,45 @@
 {
-  "date": "2026-09-21",
-  "deployed_at": "2026-09-21T14:32:54+00:00",
-  "generated_at": "2026-09-21T20:02:52.986802+05:30",
+  "date": "2026-09-22",
+  "deployed_at": "2026-09-22T14:33:50+00:00",
+  "generated_at": "2026-09-22T20:03:47.705674+05:30",
   "baseline": 674,
-  "resolved": 1264,
-  "released": 1214,
-  "dropped": 39,
-  "remaining": 411,
-  "pct_cleared": 188,
-  "pct_shipped": 180,
-  "pct_dropped": 6,
-  "closed_today": 23,
-  "added_today": 18,
+  "resolved": 1296,
+  "released": 1241,
+  "dropped": 44,
+  "remaining": 420,
+  "pct_cleared": 192,
+  "pct_shipped": 184,
+  "pct_dropped": 7,
+  "closed_today": 21,
+  "added_today": 23,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 18
+    "unclassified": 23
   },
-  "added_since_baseline": 1001,
+  "added_since_baseline": 1042,
   "inflow_by_category": {
     "reclass": 12,
     "new-scope": 7,
     "rework": 3,
     "other": 2,
-    "unclassified": 977
+    "unclassified": 1018
   },
   "inflow_by_project": {
-    "CENG": 104,
-    "TRCY": 897
+    "CENG": 109,
+    "TRCY": 933
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 429,
+    "Platform / Unspecified": 456,
     "Tracy": 123,
-    "Loft": 98,
+    "Loft": 104,
     "Sam": 92,
-    "Arrow Electronics": 44,
+    "Arrow Electronics": 45,
     "Bayer": 30,
-    "Novelis": 23,
-    "3M Company": 21,
+    "Novelis": 28,
+    "3M Company": 22,
     "Samsung SDS": 15,
     "Kimberly-Clark": 9,
     "AI Tools": 7,
@@ -59,6 +59,7 @@
     "Bealls": 3,
     "Coca Cola": 2,
     "First Solar": 2,
+    "HNI": 2,
     "Armada": 2,
     "TRACY": 2,
     "Monitoring": 2,
@@ -70,7 +71,6 @@
     "KHC": 1,
     "WMS": 1,
     "TJX": 1,
-    "HNI": 1,
     "DEFERRED": 1,
     "Reporting": 1,
     "Goals/SLA": 1,
@@ -94,30 +94,31 @@
     "ai-agent-actions": 1
   },
   "added_today_by_project": {
-    "TRCY": 18
+    "TRCY": 23
   },
   "added_today_by_customer": {
-    "Platform / Unspecified": 16,
-    "Arrow Electronics": 2
+    "Platform / Unspecified": 21,
+    "Loft": 1,
+    "Arrow Electronics": 1
   },
-  "blocked": 37,
-  "uat": 9,
+  "blocked": 35,
+  "uat": 15,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 272,
-      "added": 822,
-      "resolved": 629,
-      "released": 607,
-      "dropped": 20,
+      "remaining": 281,
+      "added": 863,
+      "resolved": 661,
+      "released": 634,
+      "dropped": 25,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 822
+        "unclassified": 863
       }
     },
     {
@@ -155,8 +156,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-21.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-21.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-21.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-22.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-22.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-22.html"
   }
 }

@@ -1,54 +1,54 @@
 {
-  "date": "2026-09-23",
-  "deployed_at": "2026-09-23T14:32:22+00:00",
-  "generated_at": "2026-09-23T20:02:21.721614+05:30",
+  "date": "2026-09-24",
+  "deployed_at": "2026-09-24T14:32:52+00:00",
+  "generated_at": "2026-09-24T20:02:50.865846+05:30",
   "baseline": 674,
-  "resolved": 1323,
-  "released": 1267,
+  "resolved": 1312,
+  "released": 1257,
   "dropped": 45,
-  "remaining": 411,
-  "pct_cleared": 196,
-  "pct_shipped": 188,
+  "remaining": 417,
+  "pct_cleared": 195,
+  "pct_shipped": 186,
   "pct_dropped": 7,
-  "closed_today": 22,
-  "added_today": 12,
+  "closed_today": 13,
+  "added_today": 13,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 12
+    "unclassified": 13
   },
-  "added_since_baseline": 1060,
+  "added_since_baseline": 1055,
   "inflow_by_category": {
     "reclass": 12,
     "new-scope": 7,
     "rework": 3,
     "other": 2,
-    "unclassified": 1036
+    "unclassified": 1031
   },
   "inflow_by_project": {
-    "CENG": 109,
-    "TRCY": 951
+    "CENG": 110,
+    "TRCY": 945
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 461,
-    "Tracy": 125,
+    "Platform / Unspecified": 464,
+    "Tracy": 121,
     "Loft": 110,
-    "Sam": 93,
-    "Arrow Electronics": 45,
+    "Sam": 89,
+    "Arrow Electronics": 42,
     "Bayer": 30,
+    "3M Company": 29,
     "Novelis": 28,
-    "3M Company": 24,
     "Samsung SDS": 15,
     "Kimberly-Clark": 9,
     "Unilever North America": 8,
     "AI Tools": 7,
-    "Walmart": 7,
     "Polly": 7,
     "Bridgestone": 6,
     "Kraft Heinz": 6,
-    "Chevron": 5,
+    "Chevron": 6,
+    "Walmart": 5,
     "Scenario Engine": 4,
     "Functional Failures": 4,
     "FedEx": 4,
@@ -65,7 +65,6 @@
     "Monitoring": 2,
     "Invisible Failures": 2,
     "Volume Alerting": 2,
-    "Cargill": 2,
     "Cassie": 2,
     "KHC": 1,
     "WMS": 1,
@@ -75,6 +74,7 @@
     "Reporting": 1,
     "Goals/SLA": 1,
     "AI Agent Actions": 1,
+    "Cargill": 1,
     "Church & Dwight": 1,
     "SAM": 1,
     "Fedex": 1,
@@ -94,27 +94,27 @@
     "ai-agent-actions": 1
   },
   "added_today_by_project": {
-    "TRCY": 12
+    "TRCY": 13
   },
   "added_today_by_customer": {
-    "Loft": 4,
-    "Platform / Unspecified": 3,
+    "Platform / Unspecified": 5,
+    "3M Company": 4,
     "Tracy": 2,
-    "3M Company": 2,
+    "Loft": 1,
     "Chevron": 1
   },
-  "blocked": 36,
-  "uat": 28,
+  "blocked": 41,
+  "uat": 29,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 272,
+      "remaining": 279,
       "added": 881,
-      "resolved": 688,
-      "released": 660,
-      "dropped": 26,
+      "resolved": 681,
+      "released": 653,
+      "dropped": 27,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
@@ -126,16 +126,16 @@
     {
       "label": "Customer Work",
       "remaining": 64,
-      "added": 78,
-      "resolved": 110,
-      "released": 96,
-      "dropped": 9,
+      "added": 76,
+      "resolved": 108,
+      "released": 95,
+      "dropped": 8,
       "inflow_by_category": {
         "reclass": 12,
         "new-scope": 3,
         "rework": 0,
         "other": 0,
-        "unclassified": 63
+        "unclassified": 61
       }
     },
     {
@@ -158,8 +158,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-23.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-23.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-23.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-24.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-24.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-24.html"
   }
 }

@@ -1,42 +1,42 @@
 {
-  "date": "2026-09-30",
-  "deployed_at": "2026-09-30T14:35:13+00:00",
-  "generated_at": "2026-09-30T20:05:12.137963+05:30",
+  "date": "2026-10-01",
+  "deployed_at": "2026-10-01T14:32:17+00:00",
+  "generated_at": "2026-10-01T20:02:16.355537+05:30",
   "baseline": 674,
-  "resolved": 1341,
-  "released": 1283,
-  "dropped": 46,
-  "remaining": 429,
-  "pct_cleared": 199,
-  "pct_shipped": 190,
+  "resolved": 1337,
+  "released": 1277,
+  "dropped": 48,
+  "remaining": 431,
+  "pct_cleared": 198,
+  "pct_shipped": 189,
   "pct_dropped": 7,
-  "closed_today": 29,
-  "added_today": 28,
+  "closed_today": 8,
+  "added_today": 3,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 28
+    "unclassified": 3
   },
-  "added_since_baseline": 1096,
+  "added_since_baseline": 1094,
   "inflow_by_category": {
     "reclass": 12,
     "new-scope": 5,
     "rework": 3,
     "other": 2,
-    "unclassified": 1074
+    "unclassified": 1072
   },
   "inflow_by_project": {
     "CENG": 118,
-    "TRCY": 978
+    "TRCY": 976
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 464,
-    "Tracy": 135,
+    "Platform / Unspecified": 472,
+    "Tracy": 126,
     "Loft": 107,
-    "Sam": 97,
-    "Arrow Electronics": 47,
+    "Sam": 95,
+    "Arrow Electronics": 46,
     "Novelis": 29,
     "3M Company": 29,
     "Bayer": 27,
@@ -50,10 +50,10 @@
     "Chevron": 6,
     "WMS": 5,
     "Scenario Engine": 4,
+    "Walmart": 4,
     "HNI": 4,
     "FedEx": 4,
     "Outlook trigger": 4,
-    "Walmart": 3,
     "Bridgestone": 3,
     "Functional Failures": 3,
     "Alert Routing": 3,
@@ -71,7 +71,6 @@
     "ai-agent-actions": 2,
     "KHC": 1,
     "DSV Pilot": 1,
-    "TJX": 1,
     "DEFERRED": 1,
     "TRACY": 1,
     "Craft/Magic Migration": 1,
@@ -98,52 +97,51 @@
     "web_scraping": 1,
     "wrapped": 1,
     "SAM": 1,
-    "WBS/FE": 1
+    "WBS/FE": 1,
+    "ERROR": 1,
+    "TEST TRCY-6328": 1
   },
   "added_today_by_project": {
-    "TRCY": 28
+    "TRCY": 3
   },
   "added_today_by_customer": {
-    "Tracy": 11,
-    "Platform / Unspecified": 7,
-    "Polly": 6,
-    "carrier_portal_lookup": 2,
-    "Arrow Electronics": 1,
-    "WMS": 1
+    "Tracy": 1,
+    "Platform / Unspecified": 1,
+    "3M Company": 1
   },
-  "blocked": 35,
-  "uat": 10,
+  "blocked": 33,
+  "uat": 11,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 294,
-      "added": 945,
-      "resolved": 730,
-      "released": 687,
-      "dropped": 40,
+      "remaining": 297,
+      "added": 947,
+      "resolved": 729,
+      "released": 684,
+      "dropped": 42,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 945
+        "unclassified": 947
       }
     },
     {
       "label": "Customer Work",
       "remaining": 61,
-      "added": 66,
-      "resolved": 101,
-      "released": 93,
-      "dropped": 3,
+      "added": 64,
+      "resolved": 99,
+      "released": 92,
+      "dropped": 2,
       "inflow_by_category": {
         "reclass": 12,
         "new-scope": 1,
         "rework": 0,
         "other": 0,
-        "unclassified": 53
+        "unclassified": 51
       }
     },
     {
@@ -166,8 +164,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-09-30.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-09-30.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-09-30.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-01.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-01.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-01.html"
   }
 }

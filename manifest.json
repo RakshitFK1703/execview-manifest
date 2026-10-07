@@ -1,39 +1,39 @@
 {
-  "date": "2026-10-06",
-  "deployed_at": "2026-10-06T14:32:23+00:00",
-  "generated_at": "2026-10-06T20:02:21.772420+05:30",
+  "date": "2026-10-07",
+  "deployed_at": "2026-10-07T14:32:46+00:00",
+  "generated_at": "2026-10-07T20:02:44.673149+05:30",
   "baseline": 674,
-  "resolved": 1315,
-  "released": 1256,
+  "resolved": 1327,
+  "released": 1268,
   "dropped": 48,
-  "remaining": 426,
-  "pct_cleared": 195,
-  "pct_shipped": 186,
+  "remaining": 437,
+  "pct_cleared": 197,
+  "pct_shipped": 188,
   "pct_dropped": 7,
-  "closed_today": 21,
-  "added_today": 20,
+  "closed_today": 6,
+  "added_today": 18,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 20
+    "unclassified": 18
   },
-  "added_since_baseline": 1067,
+  "added_since_baseline": 1090,
   "inflow_by_category": {
     "reclass": 12,
     "new-scope": 5,
     "rework": 3,
     "other": 2,
-    "unclassified": 1045
+    "unclassified": 1068
   },
   "inflow_by_project": {
     "CENG": 129,
-    "TRCY": 938
+    "TRCY": 961
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 448,
-    "Tracy": 131,
+    "Platform / Unspecified": 453,
+    "Tracy": 150,
     "Loft": 104,
     "Sam": 91,
     "Arrow Electronics": 42,
@@ -51,9 +51,9 @@
     "HNI": 5,
     "Scenario Engine": 4,
     "Walmart": 4,
-    "FedEx": 4,
     "Outlook trigger": 4,
     "WMS": 4,
+    "Monitoring": 3,
     "Functional Failures": 3,
     "Bealls": 3,
     "send_email": 3,
@@ -62,11 +62,11 @@
     "Coca Cola": 2,
     "Bridgestone": 2,
     "Armada": 2,
-    "Monitoring": 2,
     "Invisible Failures": 2,
     "Volume Alerting": 2,
     "Alert Routing": 2,
     "Trinseo": 2,
+    "FedEx": 2,
     "ai-agent-actions": 2,
     "Nestle": 2,
     "KHC": 1,
@@ -104,36 +104,31 @@
     "Bug": 1
   },
   "added_today_by_project": {
-    "TRCY": 20
+    "TRCY": 18
   },
   "added_today_by_customer": {
-    "3M Company": 4,
-    "Tracy": 4,
-    "Sam": 3,
-    "Loft": 3,
-    "Kraft Heinz": 2,
-    "Nestle": 2,
-    "Platform / Unspecified": 1,
-    "Bug": 1
+    "Tracy": 13,
+    "Platform / Unspecified": 4,
+    "Monitoring": 1
   },
-  "blocked": 53,
-  "uat": 12,
+  "blocked": 63,
+  "uat": 14,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 296,
-      "added": 921,
-      "resolved": 704,
-      "released": 663,
+      "remaining": 307,
+      "added": 944,
+      "resolved": 716,
+      "released": 675,
       "dropped": 39,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 921
+        "unclassified": 944
       }
     },
     {
@@ -171,8 +166,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-06.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-06.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-06.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-07.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-07.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-07.html"
   }
 }

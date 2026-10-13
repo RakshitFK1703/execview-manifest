@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-12",
-  "deployed_at": "2026-10-12T14:31:08+00:00",
-  "generated_at": "2026-10-12T20:01:07.624589+05:30",
+  "date": "2026-10-13",
+  "deployed_at": "2026-10-13T14:32:27+00:00",
+  "generated_at": "2026-10-13T20:02:26.653567+05:30",
   "baseline": 674,
-  "resolved": 1225,
-  "released": 1172,
-  "dropped": 43,
-  "remaining": 444,
-  "pct_cleared": 182,
-  "pct_shipped": 174,
+  "resolved": 1247,
+  "released": 1195,
+  "dropped": 42,
+  "remaining": 445,
+  "pct_cleared": 185,
+  "pct_shipped": 177,
   "pct_dropped": 6,
-  "closed_today": 0,
-  "added_today": 1,
+  "closed_today": 15,
+  "added_today": 22,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 1
+    "unclassified": 22
   },
-  "added_since_baseline": 995,
+  "added_since_baseline": 1018,
   "inflow_by_category": {
     "reclass": 11,
     "new-scope": 2,
     "rework": 2,
     "other": 1,
-    "unclassified": 979
+    "unclassified": 1002
   },
   "inflow_by_project": {
     "CENG": 126,
-    "TRCY": 869
+    "TRCY": 892
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 409,
+    "Platform / Unspecified": 411,
     "Tracy": 149,
     "Loft": 92,
     "Sam": 85,
+    "3M Company": 39,
     "Arrow Electronics": 34,
-    "3M Company": 32,
     "Bayer": 27,
+    "Polly": 23,
     "Novelis": 18,
     "Samsung SDS": 15,
     "ai-agent-actions": 12,
-    "Polly": 11,
     "WMS": 8,
     "AI Tools": 7,
     "carrier_portal_lookup": 7,
     "Chevron": 6,
+    "Kimberly-Clark": 5,
     "Walmart": 5,
     "HNI": 5,
     "Scenario Engine": 4,
-    "Kimberly-Clark": 4,
     "Unilever North America": 3,
     "send_email": 3,
     "Kraft Heinz": 3,
@@ -63,6 +63,7 @@
     "Bealls": 2,
     "Trinseo": 2,
     "FedEx": 2,
+    "Bridgestone": 2,
     "Nestle": 2,
     "KHC": 1,
     "DSV Pilot": 1,
@@ -81,7 +82,6 @@
     "Fedex": 1,
     "A2": 1,
     "Alerting": 1,
-    "Bridgestone": 1,
     "PD #556856": 1,
     "PD #574474": 1,
     "Coca Cola": 1,
@@ -100,29 +100,32 @@
     "tooling": 1
   },
   "added_today_by_project": {
-    "TRCY": 1
+    "TRCY": 22
   },
   "added_today_by_customer": {
-    "Platform / Unspecified": 1
+    "Polly": 12,
+    "3M Company": 7,
+    "Platform / Unspecified": 2,
+    "Bridgestone": 1
   },
   "blocked": 44,
-  "uat": 27,
+  "uat": 13,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 316,
-      "added": 865,
-      "resolved": 628,
-      "released": 588,
-      "dropped": 37,
+      "remaining": 317,
+      "added": 888,
+      "resolved": 650,
+      "released": 611,
+      "dropped": 36,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 865
+        "unclassified": 888
       }
     },
     {
@@ -160,8 +163,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-12.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-12.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-12.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-13.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-13.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-13.html"
   }
 }

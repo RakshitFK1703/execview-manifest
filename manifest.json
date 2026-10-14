@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-13",
-  "deployed_at": "2026-10-13T14:32:27+00:00",
-  "generated_at": "2026-10-13T20:02:26.653567+05:30",
+  "date": "2026-10-14",
+  "deployed_at": "2026-10-14T14:32:09+00:00",
+  "generated_at": "2026-10-14T20:02:08.716034+05:30",
   "baseline": 674,
-  "resolved": 1247,
-  "released": 1195,
+  "resolved": 1273,
+  "released": 1221,
   "dropped": 42,
-  "remaining": 445,
-  "pct_cleared": 185,
-  "pct_shipped": 177,
+  "remaining": 453,
+  "pct_cleared": 189,
+  "pct_shipped": 181,
   "pct_dropped": 6,
-  "closed_today": 15,
-  "added_today": 22,
+  "closed_today": 18,
+  "added_today": 7,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 22
+    "unclassified": 7
   },
-  "added_since_baseline": 1018,
+  "added_since_baseline": 1052,
   "inflow_by_category": {
     "reclass": 11,
     "new-scope": 2,
     "rework": 2,
     "other": 1,
-    "unclassified": 1002
+    "unclassified": 1036
   },
   "inflow_by_project": {
-    "CENG": 126,
-    "TRCY": 892
+    "CENG": 127,
+    "TRCY": 925
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 411,
-    "Tracy": 149,
-    "Loft": 92,
-    "Sam": 85,
+    "Platform / Unspecified": 428,
+    "Tracy": 162,
+    "Loft": 93,
+    "Sam": 87,
     "3M Company": 39,
     "Arrow Electronics": 34,
     "Bayer": 27,
@@ -46,10 +46,10 @@
     "WMS": 8,
     "AI Tools": 7,
     "carrier_portal_lookup": 7,
+    "HNI": 6,
     "Chevron": 6,
     "Kimberly-Clark": 5,
     "Walmart": 5,
-    "HNI": 5,
     "Scenario Engine": 4,
     "Unilever North America": 3,
     "send_email": 3,
@@ -100,62 +100,60 @@
     "tooling": 1
   },
   "added_today_by_project": {
-    "TRCY": 22
+    "TRCY": 7
   },
   "added_today_by_customer": {
-    "Polly": 12,
-    "3M Company": 7,
-    "Platform / Unspecified": 2,
-    "Bridgestone": 1
+    "Tracy": 5,
+    "Platform / Unspecified": 2
   },
   "blocked": 44,
-  "uat": 13,
+  "uat": 14,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 317,
-      "added": 888,
-      "resolved": 650,
-      "released": 611,
+      "remaining": 325,
+      "added": 919,
+      "resolved": 673,
+      "released": 634,
       "dropped": 36,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 888
+        "unclassified": 919
       }
     },
     {
       "label": "Customer Work",
       "remaining": 56,
-      "added": 58,
-      "resolved": 98,
-      "released": 90,
+      "added": 59,
+      "resolved": 99,
+      "released": 91,
       "dropped": 4,
       "inflow_by_category": {
         "reclass": 11,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 47
+        "unclassified": 48
       }
     },
     {
       "label": "Loft Platform",
       "remaining": 21,
-      "added": 21,
-      "resolved": 59,
-      "released": 59,
+      "added": 22,
+      "resolved": 60,
+      "released": 60,
       "dropped": 0,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 1,
         "other": 0,
-        "unclassified": 20
+        "unclassified": 21
       }
     }
   ],
@@ -163,8 +161,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-13.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-13.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-13.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-14.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-14.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-14.html"
   }
 }

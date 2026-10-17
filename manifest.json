@@ -1,44 +1,44 @@
 {
-  "date": "2026-10-16",
-  "deployed_at": "2026-10-16T14:35:03+00:00",
-  "generated_at": "2026-10-16T20:04:59.499885+05:30",
+  "date": "2026-10-17",
+  "deployed_at": "2026-10-17T14:30:58+00:00",
+  "generated_at": "2026-10-17T20:00:57.036388+05:30",
   "baseline": 674,
-  "resolved": 1271,
-  "released": 1218,
-  "dropped": 43,
+  "resolved": 1255,
+  "released": 1200,
+  "dropped": 45,
   "remaining": 461,
-  "pct_cleared": 189,
-  "pct_shipped": 181,
-  "pct_dropped": 6,
-  "closed_today": 4,
-  "added_today": 4,
+  "pct_cleared": 186,
+  "pct_shipped": 178,
+  "pct_dropped": 7,
+  "closed_today": 0,
+  "added_today": 0,
   "added_today_by_category": {
     "reclass": 0,
     "new-scope": 0,
     "rework": 0,
     "other": 0,
-    "unclassified": 4
+    "unclassified": 0
   },
-  "added_since_baseline": 1058,
+  "added_since_baseline": 1042,
   "inflow_by_category": {
     "reclass": 11,
     "new-scope": 2,
     "rework": 2,
     "other": 1,
-    "unclassified": 1042
+    "unclassified": 1026
   },
   "inflow_by_project": {
     "CENG": 133,
-    "TRCY": 925
+    "TRCY": 909
   },
   "inflow_by_customer": {
-    "Platform / Unspecified": 426,
+    "Platform / Unspecified": 422,
     "Tracy": 172,
-    "Sam": 87,
-    "Loft": 85,
-    "Arrow Electronics": 38,
-    "3M Company": 37,
-    "Polly": 29,
+    "Sam": 85,
+    "Loft": 79,
+    "Arrow Electronics": 37,
+    "3M Company": 35,
+    "Polly": 30,
     "Bayer": 27,
     "Samsung SDS": 15,
     "Novelis": 15,
@@ -58,16 +58,14 @@
     "Kraft Heinz": 3,
     "3M ODFL": 3,
     "carrier portal": 3,
+    "First Solar": 2,
     "Monitoring": 2,
     "Functional Failures": 2,
     "Alert Routing": 2,
     "Bealls": 2,
-    "Trinseo": 2,
-    "FedEx": 2,
     "Nestle": 2,
     "KHC": 1,
     "DSV Pilot": 1,
-    "First Solar": 1,
     "KC": 1,
     "KC Tracy": 1,
     "DEFERRED": 1,
@@ -78,7 +76,8 @@
     "Reporting": 1,
     "Goals/SLA": 1,
     "AI Agent Actions": 1,
-    "A2": 1,
+    "Trinseo": 1,
+    "FedEx": 1,
     "Alerting": 1,
     "Coca Cola": 1,
     "process_emails": 1,
@@ -97,42 +96,35 @@
     "Bridgestone": 1,
     "test automation": 1
   },
-  "added_today_by_project": {
-    "TRCY": 4
-  },
-  "added_today_by_customer": {
-    "3M Company": 1,
-    "ai-agent-actions": 1,
-    "test automation": 1,
-    "Arrow Electronics": 1
-  },
-  "blocked": 41,
-  "uat": 11,
+  "added_today_by_project": {},
+  "added_today_by_customer": {},
+  "blocked": 40,
+  "uat": 15,
   "prs_merged_today": 0,
   "prs_pending_review": 0,
   "top_buckets": [
     {
       "label": "Platform + Unclassified",
-      "remaining": 333,
-      "added": 924,
-      "resolved": 670,
-      "released": 630,
+      "remaining": 335,
+      "added": 908,
+      "resolved": 652,
+      "released": 613,
       "dropped": 37,
       "inflow_by_category": {
         "reclass": 0,
         "new-scope": 0,
         "rework": 0,
         "other": 0,
-        "unclassified": 924
+        "unclassified": 908
       }
     },
     {
       "label": "Customer Work",
-      "remaining": 56,
+      "remaining": 54,
       "added": 60,
-      "resolved": 100,
-      "released": 92,
-      "dropped": 4,
+      "resolved": 102,
+      "released": 91,
+      "dropped": 6,
       "inflow_by_category": {
         "reclass": 11,
         "new-scope": 0,
@@ -161,8 +153,8 @@
     "ceo_pulse": "https://execview-ai.vercel.app/ceo_pulse.html",
     "dashboard": "https://execview-ai.vercel.app/dashboard.html",
     "exec_report": "https://execview-ai.vercel.app/exec_report.html",
-    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-16.html",
-    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-16.html",
-    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-16.html"
+    "ceo_pulse_dated": "https://execview-ai.vercel.app/ceo_pulse_2026-10-17.html",
+    "dashboard_dated": "https://execview-ai.vercel.app/dashboard_2026-10-17.html",
+    "exec_report_dated": "https://execview-ai.vercel.app/exec_report_2026-10-17.html"
   }
 }
